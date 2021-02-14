@@ -5,6 +5,8 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 WeatherPy_withNotes.ipynb
+Google_Nearby_Search.ipynb
+WeatherPy_withNotes.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
